@@ -1,3 +1,5 @@
+Fix in style for rn 0.62 in https://github.com/n4kz/react-native-material-textfield
+
 [npm-badge]: https://img.shields.io/npm/v/react-native-material-textfield.svg?colorB=ff6d00
 [npm-url]: https://npmjs.com/package/react-native-material-textfield
 [license-badge]: https://img.shields.io/npm/l/react-native-material-textfield.svg?colorB=448aff
