@@ -452,6 +452,7 @@ export default class TextField extends PureComponent {
   inputProps() {
     let store = {};
 
+    // eslint-disable-next-line no-unused-vars
     for (let key in TextInput.propTypes) {
       if ('defaultValue' === key) {
         continue;
