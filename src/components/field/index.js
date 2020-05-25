@@ -19,7 +19,7 @@ import Counter from "../counter";
 import styles from "./styles";
 
 function startAnimation(animation, options, callback) {
-  Animated.timing(animation, { ...options, useNativeDriver: true }).start(
+  Animated.timing(animation, { ...options, useNativeDriver: false }).start(
     callback
   );
 }
